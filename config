@@ -1,0 +1,5 @@
+[sys]
+#Name-RIG@IP-Adress:Port
+Host = Rig-1@192.168.0.200:2222;Rig-2@192.168.0.201:2222
+#Interval Check Hasreit
+Tr_CH = 1
